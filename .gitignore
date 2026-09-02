@@ -1,0 +1,17 @@
+# Dependencies and generated bundles
+node_modules/
+dist/
+.vite/
+
+# Local environment and editor files
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+
+# TypeScript build cache
+*.tsbuildinfo
